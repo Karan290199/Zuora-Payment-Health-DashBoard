@@ -1,6 +1,4 @@
-{
-  "gateways" : 
-  [
+const DefaultPageDataPM = [
     {
       "gatewayName" : "Gateway 2",
       "overallSuccessRate" : 99.916,
@@ -786,4 +784,4 @@
       ]
     }
   ]
-}
+export default DefaultPageDataPM;

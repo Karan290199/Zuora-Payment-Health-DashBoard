@@ -1,6 +1,4 @@
-{
-  "gateways" : 
-  [
+const ModuleDataMinDist = [
     {
       "gatewayName" : "Gateway 1",
       "overallSuccessRate" : 99.875,
@@ -249,4 +247,4 @@
       ]
     }
   ]
-}
+export default ModuleDataMinDist;
