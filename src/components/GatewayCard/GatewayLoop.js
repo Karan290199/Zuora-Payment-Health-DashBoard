@@ -4,18 +4,16 @@ import styles from './GatewayCard.module.css';
 import LineLoop from '../LineData/LineLoop';
 const GatewayLoop = () => {
     return(
-        <div>
+        <div className={styles.CardContainer}>
         {
             gateways.map((gatewayData, index) => {
                 return (
-                    <div key = {index} className={styles.GatewayCard}>
-                        <Card border="secondary">
-                        <Card.Body>
-                            <Card.Title className={styles.cardTitle}>{gatewayData.gatewayName}</Card.Title>
-                            <LineLoop/>
-                        </Card.Body>
-                        </Card>
-                    </div>
+                    <Card className={styles.GatewayCard} key = {index}>
+                    <Card.Body className={styles.GatewayCardBody}>
+                        <Card.Title>{gatewayData.gatewayName}</Card.Title>
+                        <LineLoop/>
+                    </Card.Body>
+                    </Card>
                 )
             })
         }

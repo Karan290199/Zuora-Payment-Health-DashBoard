@@ -18,11 +18,6 @@ function App() {
       <body>
       <GatewayLoop/>
       </body>
-      <footer className="App-footer">
-      <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-      </footer>
     </div>
   );
 }
