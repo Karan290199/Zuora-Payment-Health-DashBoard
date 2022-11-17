@@ -1,9 +1,12 @@
+import GatewayCard from './components/GatewayCard/GatewayCard';
 import LineLoop from './components/LineData/LineLoop';
 
 function App() {
   return (
     <div className="App">
-     <LineLoop />
+      <GatewayCard>
+        <LineLoop />
+      </GatewayCard>
     </div>
   );
 }
