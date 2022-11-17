@@ -1,46 +1,75 @@
-import { Card } from 'react-bootstrap';
+import React, { useState } from "react";
 import gateways from "../static/DefaultPageData";
-import styles from './GatewayCard.module.css';
-import LineLoop from '../LineData/LineLoop';
+import filteredGateways from "../static/DefaultPageData_PMFilter";
+import styles from "./GatewayCard.module.css";
+import LineLoop from "../LineData/LineLoop";
+import { BsSoundwave } from "react-icons/bs";
+import { Card, Dropdown, DropdownButton } from "react-bootstrap";
+
+const getData = (value) => {
+  value = value.value;
+  let data = [];
+  if (value === 'Select All Payment Method' || value === '') {
+    data = gateways;
+  } else {
+    data = filteredGateways;
+  }
+  return (
+      data.map((gatewayData, index2) => {
+      return (
+        <Card className={styles.GatewayCard} key={index2}>
+          <Card.Body className={styles.GatewayCardBody}>
+            <Card.Title>{gatewayData.gatewayName}</Card.Title>
+            <LineLoop index={index2} />
+          </Card.Body>
+        </Card>
+      );
+    })
+  );
+}
+
+const getValue = (value) => {
+  value = value.value;
+  if(value === '') {
+    return 'Select All Payment Method';
+  } 
+  return value;
+}
+
 
 const GatewayLoop = () => {
-    return (
-        <div className={styles.CardContainer}>
-
-    <Card className={styles.GatewayCard}>
+  let [value, setValue] = useState("");
+  const handleSelect = (e) => {
+    setValue(e);
+  };
+  return (
+    <div className={styles.CardContainer}>
+      <Card className={styles.GatewayCard}>
         <Card.Body className={styles.GatewayCardHeader}>
-            <i className="fas fa-circle" style={{ fontSize: '15px', color: 'green' }}></i>
+          <div className={styles.CardChild}>
+            <DropdownButton
+              className={styles.Dropdown}
+              title={getValue({value})}
+              onSelect={handleSelect}
+              defaultValue = "Select All Payment Method"
+            >
+              <Dropdown.Item eventKey="Select All Payment Method">Select All Payment Method</Dropdown.Item>
+              <Dropdown.Item eventKey="CreditCard">Credit Card</Dropdown.Item>
+              <Dropdown.Item eventKey="ACH">ACH</Dropdown.Item>
+            </DropdownButton>
+          </div>
+          <div className={styles.CardChild}>
+            <BsSoundwave className={styles.Uptime} />
             <span>100% Uptime</span>
-            <i className="fas fa-circle" style={{ fontSize: '15px', color: 'yellow' }}></i>
+            <BsSoundwave className={styles.PartialDegradation} />
             <span>Partial degradation</span>
-            <i className="fas fa-circle" style={{ fontSize: '15px', color: 'red' }}></i>
+            <BsSoundwave className={styles.Downtime} />
             <span>Downtime</span>
-            <div className={styles.dropdown}>
-            <button className={styles.dropbtn}>Payment Method Type
-                <i class="fa fa-caret-down"></i>
-            </button>
-            <div className={styles.dropdownContent}>
-                <a href="#">Credit Card</a>
-                <a href="#">ACH</a>
-                <a href="#">Bank Transfer</a>
-            </div>
-        </div>
+          </div>
         </Card.Body>
-    </Card>
-    {
-        gateways.map((gatewayData, index2) => {
-            return (
-                <Card className={styles.GatewayCard} key={index2}>
-                    <Card.Body className={styles.GatewayCardBody}>
-                        <Card.Title>{gatewayData.gatewayName}</Card.Title>
-                        <LineLoop index={index2} />
-
-                    </Card.Body>
-                </Card>
-            )
-        })
-    }
-    </div >
-    );
-}
+      </Card>
+      {getData({value})}
+    </div>
+  );
+};
 export default GatewayLoop;

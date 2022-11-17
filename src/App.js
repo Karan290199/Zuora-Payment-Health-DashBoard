@@ -1,6 +1,4 @@
-import GatewayCard from './components/GatewayCard/GatewayCard';
 import GatewayLoop from './components/GatewayCard/GatewayLoop';
-import LineLoop from './components/LineData/LineLoop';
 import './index.css';
 
 function App() {
@@ -13,11 +11,8 @@ function App() {
           Payment Gateway Health Status
         </p>
         </div>
-
       </header>
-      <body>
       <GatewayLoop/>
-      </body>
     </div>
   );
 }

@@ -16,7 +16,7 @@
   margin: 2px;
   float: left;
  }
- .LineData_R {
+.LineData_R {
   background-color: red; 
   border: none;
   padding: 20px 6px;
@@ -26,15 +26,15 @@
   float: left;
  }
 
- .LineData_G:hover {
+.LineData_G:hover {
   opacity: 0.6;
   padding: 22px 6px;
  }
- .LineData_Y:hover {
+.LineData_Y:hover {
   opacity: 0.6;
   padding: 22px 6px;
  }
- .LineData_R:hover {
+.LineData_R:hover {
   opacity: 0.6;
   padding: 22px 6px;
  }
