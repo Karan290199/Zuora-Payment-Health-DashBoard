@@ -234,7 +234,7 @@ const DefaultPageData = [
         },
         {
           "timeStamp" : "2022-11-18 12:00:00",
-          "integrationFailure" : 7
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 11:00:00",
@@ -246,11 +246,11 @@ const DefaultPageData = [
         },
         {
           "timeStamp" : "2022-11-18 09:00:00",
-          "integrationFailure" : 2
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 08:00:00",
-          "integrationFailure" : 6
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 07:00:00",
@@ -474,11 +474,11 @@ const DefaultPageData = [
         },
         {
           "timeStamp" : "2022-11-18 01:00:00",
-          "integrationFailure" : 0
+          "integrationFailure" : 88
         },
         {
           "timeStamp" : "2022-11-18 00:00:00",
-          "integrationFailure" : 0
+          "integrationFailure" : 56
         },
         {
           "timeStamp" : "2022-11-17 23:00:00",
@@ -794,11 +794,11 @@ const DefaultPageData = [
         },
         {
           "timeStamp" : "2022-11-18 19:00:00",
-          "integrationFailure" : 0
+          "integrationFailure" : 45
         },
         {
           "timeStamp" : "2022-11-18 18:00:00",
-          "integrationFailure" : 0
+          "integrationFailure" : 86
         },
         {
           "timeStamp" : "2022-11-18 17:00:00",

@@ -7,11 +7,11 @@ const generateLines = (index2) => {
     let data ;
     for (let index = 0; index < gateways[0].healthMetrics.length; index++) {
         if (gateways[index2.index].healthMetrics[index].integrationFailure == 0){
-           data = <div className={styles.LineData_G}></div>
+           data = <button className={styles.LineData_G}></button>
         } else if (gateways[index2.index].healthMetrics[index].integrationFailure >= 80) {
-            data = <div className={styles.LineData_R}></div>
+            data = <button className={styles.LineData_R}></button>
         } else {
-            data = <div className={styles.LineData_Y}></div>
+            data = <button className={styles.LineData_Y}></button>
         }
         content.push(data);
     }

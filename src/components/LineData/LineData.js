@@ -1,15 +1,16 @@
 import React from 'react';
 // import PropTypes from 'prop-types';
 import styles from './LineData.module.css';
+import OverlayTrigger from 'react-bootstrap/OverlayTrigger';
 
 const LineData_G = () => (
-  <div className={styles.LineData_G}></div>
+  <button className={styles.LineData_G}></button>
 );
 const LineData_Y = () => (
-  <div className={styles.LineData_Y}></div>
+  <button className={styles.LineData_Y}></button>
 );
 const LineData_R = () => (
-  <div className={styles.LineData_R}></div>
+  <button className={styles.LineData_R}></button>
 );
 
 // LineData.propTypes = {};

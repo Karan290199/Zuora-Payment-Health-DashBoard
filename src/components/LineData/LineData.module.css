@@ -1,18 +1,40 @@
 .LineData_G {
- border-left: 8px solid green;
-  height: 30px;
+  background-color: #4CAF50;
+  border: none;
+  padding: 20px 6px;
+  display: inline-block;
+  cursor: pointer;
   margin: 2px;
   float: left;
 }
 .LineData_Y {
-  border-left: 8px solid yellow;
-   height: 30px;
-   margin: 2px;
-   float: left;
+  background-color: yellow; 
+  border: none;
+  padding: 20px 6px;
+  display: inline-block;
+  cursor: pointer;
+  margin: 2px;
+  float: left;
  }
  .LineData_R {
-  border-left: 8px solid red;
-   height: 30px;
-   margin: 2px;
-   float: left;
+  background-color: red; 
+  border: none;
+  padding: 20px 6px;
+  display: inline-block;
+  cursor: pointer;
+  margin: 2px;
+  float: left;
+ }
+
+ .LineData_G:hover {
+  opacity: 0.6;
+  padding: 22px 6px;
+ }
+ .LineData_Y:hover {
+  opacity: 0.6;
+  padding: 22px 6px;
+ }
+ .LineData_R:hover {
+  opacity: 0.6;
+  padding: 22px 6px;
  }
