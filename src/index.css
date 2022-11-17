@@ -1,4 +1,44 @@
 .App {
-  /* background-color: #0A2540; */
-  background-color: red;
+  text-align: center;
+  background-color: #103426;
+}
+
+.App-logo {
+width: 250px;
+}
+
+
+.App-header {
+  background-color: #103426;
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  text-align: left;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  font-family: brandon-grotesque,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-transform: uppercase;
+}
+p {
+  color: #00D2B9;
+}
+.App-footer {
+  background-color: #103426;
+  min-height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Header-content {
+  display: flex;
+}
+
+.App-link {
+  color: #61dafb;
 }
