@@ -1,6 +1,18 @@
-.LineData {
+.LineData_G {
  border-left: 8px solid green;
   height: 30px;
   margin: 2px;
   float: left;
 }
+.LineData_Y {
+  border-left: 8px solid yellow;
+   height: 30px;
+   margin: 2px;
+   float: left;
+ }
+ .LineData_R {
+  border-left: 8px solid red;
+   height: 30px;
+   margin: 2px;
+   float: left;
+ }

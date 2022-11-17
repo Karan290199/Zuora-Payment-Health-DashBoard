@@ -31,9 +31,7 @@
 .GatewayCardHeader {
 
   padding: 5px;
-  float: right;
-  text-align: right;
-  justify-content: flex-end;
+  align-self: end;
 }
 
 .Uptime {

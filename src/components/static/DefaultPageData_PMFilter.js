@@ -6,192 +6,192 @@ const DefaultPageDataPM = [
       [
         {
           "timeStamp" : "2022-11-18 20:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 19:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 18:00:00",
-          "integrationFailure" : "4"
+          "integrationFailure" : 4
         },
         {
           "timeStamp" : "2022-11-18 17:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 16:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 15:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 14:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 13:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 12:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 11:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 10:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 09:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 08:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 07:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 06:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 05:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 04:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 03:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 02:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 01:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 00:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 23:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 22:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 21:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 20:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 19:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 18:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 17:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },{
           "timeStamp" : "2022-11-17 16:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },{
           "timeStamp" : "2022-11-17 15:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 14:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 13:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 12:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },{
           "timeStamp" : "2022-11-17 11:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 10:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 09:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 08:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 07:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 06:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 05:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 04:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 03:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 02:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 01:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 00:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-16 23:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-16 22:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-16 21:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         }
       ]
     },
@@ -202,192 +202,192 @@ const DefaultPageDataPM = [
       [
         {
           "timeStamp" : "2022-11-18 20:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 19:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 18:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 17:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 16:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 15:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 14:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 13:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 12:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 11:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 10:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 09:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 08:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 07:00:00",
-          "integrationFailure" : "5"
+          "integrationFailure" : 5
         },
         {
           "timeStamp" : "2022-11-18 06:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 05:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 04:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 03:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 02:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 01:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 00:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 23:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 22:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 21:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 20:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 19:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 18:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 17:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },{
           "timeStamp" : "2022-11-17 16:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },{
           "timeStamp" : "2022-11-17 15:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 14:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 13:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 12:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },{
           "timeStamp" : "2022-11-17 11:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 10:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 09:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 08:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 07:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 06:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 05:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 04:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 03:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 02:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 01:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 00:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-16 23:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-16 22:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-16 21:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         }
       ]
     },
@@ -398,11 +398,11 @@ const DefaultPageDataPM = [
       [
         {
           "timeStamp" : "2022-11-18 20:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 19:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 18:00:00",
@@ -410,180 +410,180 @@ const DefaultPageDataPM = [
         },
         {
           "timeStamp" : "2022-11-18 17:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 16:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 15:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 14:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 13:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 12:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 11:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 10:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 09:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 08:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 07:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 06:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 05:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 04:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 03:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 02:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 01:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 00:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 23:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 22:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 21:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 20:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 19:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 18:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 17:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },{
           "timeStamp" : "2022-11-17 16:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },{
           "timeStamp" : "2022-11-17 15:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 14:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 13:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 12:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },{
           "timeStamp" : "2022-11-17 11:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 10:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 09:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 08:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 07:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 06:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 05:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 04:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 03:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 02:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 01:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 00:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-16 23:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-16 22:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-16 21:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         }
       ]
     },
@@ -594,168 +594,168 @@ const DefaultPageDataPM = [
       [
         {
           "timeStamp" : "2022-11-18 20:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 19:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 18:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 17:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 16:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 15:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 14:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 13:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 12:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 11:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 10:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 09:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 08:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 07:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 06:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 05:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 04:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 03:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 02:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 01:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-18 00:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 23:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 22:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 21:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 20:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 19:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 18:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 17:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },{
           "timeStamp" : "2022-11-17 16:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },{
           "timeStamp" : "2022-11-17 15:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 14:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 13:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 12:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },{
           "timeStamp" : "2022-11-17 11:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 10:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 09:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 08:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 07:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 06:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 05:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 04:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 03:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 02:00:00",
@@ -763,23 +763,23 @@ const DefaultPageDataPM = [
         },
         {
           "timeStamp" : "2022-11-17 01:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-17 00:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-16 23:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-16 22:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         },
         {
           "timeStamp" : "2022-11-16 21:00:00",
-          "integrationFailure" : "0"
+          "integrationFailure" : 0
         }
       ]
     }
