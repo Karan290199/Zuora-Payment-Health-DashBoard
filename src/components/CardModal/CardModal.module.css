@@ -1,0 +1,48 @@
+.LineData_G {
+  background-color: #4caf50;
+  border: none;
+  padding: 20px 6px;
+  display: inline-block;
+  cursor: pointer;
+  margin: 2px;
+  float: left;
+}
+.LineData_Y {
+  background-color: yellow;
+  border: none;
+  padding: 20px 6px;
+  display: inline-block;
+  cursor: pointer;
+  margin: 2px;
+  float: left;
+}
+.LineData_R {
+  background-color: red;
+  border: none;
+  padding: 20px 6px;
+  display: inline-block;
+  cursor: pointer;
+  margin: 2px;
+  float: left;
+}
+
+.CardModal {
+  align-items: center;
+  width: 1200px;
+  border-radius: 0;
+  background-color: white;
+}
+
+.CardModalBody {
+  display: flex;
+  background-color: white;
+  width: 1200px;
+  height: auto;
+}
+
+.CardModalHeader {
+  display: flex;
+  background-color: white;
+  width: 1200px;
+  height: auto;
+}
