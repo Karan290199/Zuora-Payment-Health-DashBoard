@@ -1,58 +1,63 @@
 .CardContainer {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    float: left;
-    padding: 10px;
-    margin: 10px 0px 10px 0px;
-    background-color: #D2DEE7;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  float: left;
+  margin: 10px 0px 10px 0px;
+  background-color: #d2dee7;
 }
 
 .GatewayCard {
   align-items: center;
-  width: 1000px;
+  width: 1300px;
   border-radius: 0;
-  margin: 0 2px;
-  background-color: #D2DEE7;
+  background-color: #d2dee7;
 }
 
 .GatewayCardBody {
-display: flex;
-background-color: #D2DEE7;
-width: 1000px;
-height: 85px;
+  display: flex;
+  background-color: #d2dee7;
+  width: 1300px;
+  height: 95px;
 }
+
 .GatewayCardHeader {
-display: flex;
-width: 1000px;
+  display: flex;
+  width: 1300px;
+  border-radius: 0;
+}
+
+.GatewayCardText {
+  color: black;
 }
 
 .CardChild {
-width: 50%;
-float: left;
+  width: 50%;
+  float: left;
 }
 
 .Uptime {
-color: green;
-font-size: 30px;
+  color: green;
+  font-size: 30px;
 }
 
 .Downtime {
-font-size:30px;
-color:red;
+  font-size: 30px;
+  color: red;
 }
 
 .PartialDegradation {
-font-size: 30px;
-color: #FFEA00;
+  font-size: 30px;
+  color: #ffea00;
 }
+
 span {
-margin-left: 10px;
-margin-right: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .Dropdown {
-display: flex;
-position: absolute;
+  display: flex;
+  position: absolute;
 }

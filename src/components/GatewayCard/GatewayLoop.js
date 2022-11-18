@@ -1,26 +1,27 @@
 import React, { useState } from "react";
-import gateways from "../static/DefaultPageData";
-import filteredGateways from "../static/DefaultPageData_PMFilter";
 import styles from "./GatewayCard.module.css";
 import LineLoop from "../LineData/LineLoop";
 import { BsSoundwave } from "react-icons/bs";
 import { Card, Dropdown, DropdownButton } from "react-bootstrap";
+import DefaultPageData from '../static/DefaultPageData.json';
+import DefaultPageData_PMFilter from "../static/DefaultPageData_PMFilter";
 
 const getData = (value) => {
   value = value.value;
   let data = [];
   if (value === 'Select All Payment Method' || value === '') {
-    data = gateways;
+    data = DefaultPageData.gateways;
   } else {
-    data = filteredGateways;
+    data = DefaultPageData_PMFilter.gateways;
   }
   return (
-      data.map((gatewayData, index2) => {
+    data.map((gatewayData, index2) => {
       return (
         <Card className={styles.GatewayCard} key={index2}>
           <Card.Body className={styles.GatewayCardBody}>
             <Card.Title>{gatewayData.gatewayName}</Card.Title>
             <LineLoop index={index2} />
+            <Card.Text className={styles.GatewayCardText}><span>{gatewayData.overallSuccessRate}% uptime for the past 48 hours</span></Card.Text>
           </Card.Body>
         </Card>
       );
