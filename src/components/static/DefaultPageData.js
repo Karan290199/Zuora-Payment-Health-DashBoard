@@ -785,7 +785,7 @@ const DefaultPageData = [
     },
      {
       "gatewayName" : "Gateway 5",
-      "overallSuccessRate" : 99.916,
+      "overallSuccessRate" : 97.27,
       "healthMetrics" :
       [
         {
