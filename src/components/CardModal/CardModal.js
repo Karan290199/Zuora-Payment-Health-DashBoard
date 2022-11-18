@@ -6,12 +6,12 @@ const CardModal = ({LineData, classname, index, index2}) => {
   return (
     <OverlayTrigger
     trigger="click"
+    rootClose
     key={index}
     placement="bottom"
     overlay={
       <Popover id={`popover-positioned-bottom`}>
         <Popover.Body>
-          <Button variant='primary'>Hide Modal</Button>
         </Popover.Body>
       </Popover>
     }
