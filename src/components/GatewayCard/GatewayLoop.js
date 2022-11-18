@@ -21,7 +21,7 @@ const getData = (value) => {
           <Card.Body className={styles.GatewayCardBody}>
             <Card.Title>{gatewayData.gatewayName}</Card.Title>
             <LineLoop index={index2} />
-            <Card.Text className={styles.GatewayCardText}><span>{gatewayData.overallSuccessRate}% uptime for the past 48 hours</span></Card.Text>
+            <Card.Text className={styles.GatewayCardText}><span>{gatewayData.overallSuccessRate}% uptime for the last 48 hours</span></Card.Text>
           </Card.Body>
         </Card>
       );
